@@ -1,2 +1,2 @@
 # bat-WEB
-Sill in beta
+Still in beta
